@@ -11,7 +11,7 @@ from PIL import Image, ExifTags
 SCRIPTNEV="wallpapers-indexer.py"
 SCRIPTVERZIO="20210408.1857"
 #Globális változók értékének feltöltése az lapértelmezésekkel
-WALLPAPERS_DIR="./"
+WALLPAPERS_DIR="."
 KIMENETFAJLNEV="INDEX.md"
 OUTPUT_MD=f"{WALLPAPERS_DIR}/{KIMENETFAJLNEV}"
 IMAGE_WIDTH=150
