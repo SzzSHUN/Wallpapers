@@ -33,4 +33,4 @@ jobs:
              pip install Pillow
 
       - name: execute py script
-        run: python wallpapers-indexer.py --kepek=$GITHUB_WORKSPACE
+        run: python wallpapers-indexer.py
