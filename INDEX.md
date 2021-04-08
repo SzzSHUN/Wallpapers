@@ -1,9 +1,11 @@
 # Háttérképek index fájl
 
-###### 6 képfájl található a gyűjteményben.
+###### 8 képfájl található a gyűjteményben.
 
 Háttérkép|Adatok
 ---------|------
+<img src="./NAGYBETU.PNG" width="150px" height="auto" alt="NAGYBETU.PNG" />|*Fájlnév:* NAGYBETU.PNG<br/>*Méret:* 818.08 KB<br/>*Dimenzió:* 1920*1200 pixel
+<img src="./NAGYBETU02.JPG" width="150px" height="auto" alt="NAGYBETU02.JPG" />|*Fájlnév:* NAGYBETU02.JPG<br/>*Méret:* 446.45 KB<br/>*Dimenzió:* 1024*768 pixel
 <img src="./archbtw.png" width="150px" height="auto" alt="archbtw.png" />|*Fájlnév:* archbtw.png<br/>*Méret:* 358.75 KB<br/>*Dimenzió:* 5120*2880 pixel
 <img src="./archwaveinv.png" width="150px" height="auto" alt="archwaveinv.png" />|*Fájlnév:* archwaveinv.png<br/>*Méret:* 968.93 KB<br/>*Dimenzió:* 5120*2880 pixel
 <img src="./blueflower-arch-wallpaper.jpg" width="150px" height="auto" alt="blueflower-arch-wallpaper.jpg" />|*Fájlnév:* blueflower-arch-wallpaper.jpg<br/>*Méret:* 209.38 KB<br/>*Dimenzió:* 1920*1200 pixel
